@@ -1,0 +1,23 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "sax_breakpoints.h": "c",
+        "isax_index.h": "c",
+        "inmemory_index_engine.h": "c",
+        "iterator": "c",
+        "algorithm": "c",
+        "unordered_map": "c",
+        "cmath": "cpp",
+        "optional": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "istream": "c",
+        "ostream": "c",
+        "random": "c",
+        "sstream": "c"
+    }
+}
